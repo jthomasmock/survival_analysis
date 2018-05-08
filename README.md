@@ -9,7 +9,8 @@ Survival analysis of male/female GCLM wild-type (+/+) or knockout (-/-).
 * uid = unique animal id
 * cage = animal cage (grouped housing)
 * sex 
-    * 0 = Male, 1 = Female
+    * 0 = Male
+    * 1 = Female
     
 * gt - genotype, We are excluding heterozygote as not part of our current project
     * 0 = wild-type (GCLM+/+)
